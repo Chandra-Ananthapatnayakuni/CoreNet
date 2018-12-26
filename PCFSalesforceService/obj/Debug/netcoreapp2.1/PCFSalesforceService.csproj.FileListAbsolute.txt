@@ -1,0 +1,15 @@
+C:\Users\bshankar3\source\repos\PCFSalesforceService\PCFSalesforceService\obj\Debug\netcoreapp2.1\PCFSalesforceService.csproj.CoreCompileInputs.cache
+C:\Users\bshankar3\source\repos\PCFSalesforceService\PCFSalesforceService\obj\Debug\netcoreapp2.1\PCFSalesforceService.AssemblyInfoInputs.cache
+C:\Users\bshankar3\source\repos\PCFSalesforceService\PCFSalesforceService\obj\Debug\netcoreapp2.1\PCFSalesforceService.AssemblyInfo.cs
+C:\Users\bshankar3\source\repos\PCFSalesforceService\PCFSalesforceService\bin\Debug\netcoreapp2.1\PCFSalesforceService.deps.json
+C:\Users\bshankar3\source\repos\PCFSalesforceService\PCFSalesforceService\bin\Debug\netcoreapp2.1\PCFSalesforceService.runtimeconfig.json
+C:\Users\bshankar3\source\repos\PCFSalesforceService\PCFSalesforceService\bin\Debug\netcoreapp2.1\PCFSalesforceService.runtimeconfig.dev.json
+C:\Users\bshankar3\source\repos\PCFSalesforceService\PCFSalesforceService\bin\Debug\netcoreapp2.1\PCFSalesforceService.dll
+C:\Users\bshankar3\source\repos\PCFSalesforceService\PCFSalesforceService\obj\Debug\netcoreapp2.1\PCFSalesforceService.csprojAssemblyReference.cache
+C:\Users\bshankar3\source\repos\PCFSalesforceService\PCFSalesforceService\obj\Debug\netcoreapp2.1\PCFSalesforceService.RazorAssemblyInfo.cache
+C:\Users\bshankar3\source\repos\PCFSalesforceService\PCFSalesforceService\obj\Debug\netcoreapp2.1\PCFSalesforceService.RazorAssemblyInfo.cs
+C:\Users\bshankar3\source\repos\PCFSalesforceService\PCFSalesforceService\obj\Debug\netcoreapp2.1\PCFSalesforceService.RazorTargetAssemblyInfo.cache
+C:\Users\bshankar3\source\repos\PCFSalesforceService\PCFSalesforceService\bin\Debug\netcoreapp2.1\PCFSalesforceService.pdb
+C:\Users\bshankar3\source\repos\PCFSalesforceService\PCFSalesforceService\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\bshankar3\source\repos\PCFSalesforceService\PCFSalesforceService\obj\Debug\netcoreapp2.1\PCFSalesforceService.dll
+C:\Users\bshankar3\source\repos\PCFSalesforceService\PCFSalesforceService\obj\Debug\netcoreapp2.1\PCFSalesforceService.pdb
