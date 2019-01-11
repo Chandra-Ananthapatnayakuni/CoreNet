@@ -13,25 +13,24 @@ namespace PCFSalesforceService.Controllers
     public class FPDPrintController : ControllerBase
     {
         [HttpPost("")]
-        public HttpResponse Post([FromBody] FPDFields fpdField)
-        {            
+        public HttpResponseMessage Post([FromBody] FPDFields fpdField)
+        {
             try
             {
-                if (fpdField == null)
+                return new HttpResponseMessage
                 {
-                    return NotFound();
-                }
-                return Ok();
+                    StatusCode = HttpStatusCode.OK,
+                    ReasonPhrase = "Created"
+                };
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-                throw;
+                return new HttpResponseMessage
+                {
+                    StatusCode = HttpStatusCode.InternalServerError,
+                    ReasonPhrase = $"Data was not created: {ex.InnerException}"
+                };
             }
-        }
-        [HttpGet("")]
-        public string Get()
-        {
-            return "Success";
         }
     }
 }
